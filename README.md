@@ -1,3 +1,4 @@
+
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Aditya!&center=true&width=380&height=45"> </p>
 
 **I'm Aditya a developer.**<br>
@@ -5,6 +6,7 @@
 - Contact Me : bw.dev@yahoo.com<br>
 - Discord : https://dsc.gg/bw.dev<br>
 
+<a href="https://github.com/AdityaOP2008"> <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/AdityaOP2008?color=000001&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" /></a>
 ### Languages & Tools
 
 [<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />](https://www.javascript.com/)
