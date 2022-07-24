@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Aditya!&center=true&width=380&height=45"> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Ishh!&center=true&width=380&height=45"> </p>
 
 **I'm Aditya a developer.**<br>
 - I own BW Bots Lab.<br>
