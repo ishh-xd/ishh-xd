@@ -9,6 +9,8 @@ age: undefined,
 skills: [{
 javascript: "Good",
 mongodb: "Excellent",
+npm: "Excellent",
+sqlite: "Learning",
 html: "Average",
 css: "Average"
 }],
