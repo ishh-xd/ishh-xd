@@ -1,23 +1,6 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Ishh!&center=true&width=380&height=45"> </p>
 
-```js
-const about = new Object({
-bio: "Dude really? Stop stalking me.",
-pronouns: ["he", "him"],
-age: undefined,
-skills: [{
-javascript: "Good",
-mongodb: "Excellent",
-npm: "Excellent",
-sqlite: "Learning",
-html: "Average",
-css: "Average"
-}],
-websites: ["https://ishh.is-a.dev", "https://ishh.lol"],
-email: "ishh-xd.proton.me"
-})
-```
 
 <a href="https://github.com/ishh-xd"> <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/ishh-xd?color=000001&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" /></a>
 [![](https://visitcount.itsvg.in/api?id=ishh-xd&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
