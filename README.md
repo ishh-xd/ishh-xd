@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Ishh!&center=true&width=380&height=45"> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+world,+I'm+Ishh!&center=true&width=380&height=45"> </p>
 
 
 <a href="https://github.com/ishh-xd"> <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/ishh-xd?color=000001&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" /></a>
