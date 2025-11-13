@@ -2,7 +2,6 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+world,+I'm+Ishh!&center=true&width=380&height=45"> </p>
 
 
-<a href="https://github.com/ishh-xd"> <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/ishh-xd?color=000001&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" /></a>
 
 ### Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1041881720380727377?showDisplayName=true&hideDiscrim=true&idleMessage=Procrastinating%20maybe.)](https://discord.com/users/1041881720380727377)
